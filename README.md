@@ -29,5 +29,7 @@ This script is based on the enchant library, which provides spell checking and s
 ## Video Demo:
 
 
-https://github.com/rm1912/AutoCorrector/assets/105429945/64912a5b-1e6f-4492-a821-e131a98c5b73
+
+https://github.com/rm1912/AutoCorrector/assets/105429945/45f15b6e-c7f5-449c-acf5-c6e3b1ba5f54
+
 
